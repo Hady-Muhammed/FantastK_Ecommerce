@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/FantasK_Ecommerce/static/css/main.48ec1f68.css",
-    "main.js": "/FantasK_Ecommerce/static/js/main.095d2870.js",
-    "static/media/slide2.jpg": "/FantasK_Ecommerce/static/media/slide2.a2d8aa89e4f0b61e2255.jpg",
-    "static/media/slide3.jpg": "/FantasK_Ecommerce/static/media/slide3.2ad8b3f8dde7beae1996.jpg",
-    "static/media/slide1.jpg": "/FantasK_Ecommerce/static/media/slide1.6a8b8e3175a3c99fb141.jpg",
-    "static/media/slide5.jpg": "/FantasK_Ecommerce/static/media/slide5.a933f954f86a40252213.jpg",
-    "static/media/slide4.jpg": "/FantasK_Ecommerce/static/media/slide4.1cdb9c4b6ec5e3c9896b.jpg",
-    "static/media/forget.png": "/FantasK_Ecommerce/static/media/forget.68b96012e3f0ad106e49.png",
-    "static/media/login.png": "/FantasK_Ecommerce/static/media/login.25fb209c5d443fe358b8.png",
-    "static/media/register.png": "/FantasK_Ecommerce/static/media/register.03315ec2083198e2d55c.png",
-    "index.html": "/FantasK_Ecommerce/index.html",
-    "main.48ec1f68.css.map": "/FantasK_Ecommerce/static/css/main.48ec1f68.css.map",
-    "main.095d2870.js.map": "/FantasK_Ecommerce/static/js/main.095d2870.js.map"
+    "main.css": "/FantastK_Ecommerce/static/css/main.48ec1f68.css",
+    "main.js": "/FantastK_Ecommerce/static/js/main.f430d554.js",
+    "static/media/slide2.jpg": "/FantastK_Ecommerce/static/media/slide2.a2d8aa89e4f0b61e2255.jpg",
+    "static/media/slide3.jpg": "/FantastK_Ecommerce/static/media/slide3.2ad8b3f8dde7beae1996.jpg",
+    "static/media/slide1.jpg": "/FantastK_Ecommerce/static/media/slide1.6a8b8e3175a3c99fb141.jpg",
+    "static/media/slide5.jpg": "/FantastK_Ecommerce/static/media/slide5.a933f954f86a40252213.jpg",
+    "static/media/slide4.jpg": "/FantastK_Ecommerce/static/media/slide4.1cdb9c4b6ec5e3c9896b.jpg",
+    "static/media/forget.png": "/FantastK_Ecommerce/static/media/forget.68b96012e3f0ad106e49.png",
+    "static/media/login.png": "/FantastK_Ecommerce/static/media/login.25fb209c5d443fe358b8.png",
+    "static/media/register.png": "/FantastK_Ecommerce/static/media/register.03315ec2083198e2d55c.png",
+    "index.html": "/FantastK_Ecommerce/index.html",
+    "main.48ec1f68.css.map": "/FantastK_Ecommerce/static/css/main.48ec1f68.css.map",
+    "main.f430d554.js.map": "/FantastK_Ecommerce/static/js/main.f430d554.js.map"
   },
   "entrypoints": [
     "static/css/main.48ec1f68.css",
-    "static/js/main.095d2870.js"
+    "static/js/main.f430d554.js"
   ]
 }
