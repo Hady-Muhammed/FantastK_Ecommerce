@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/FantastK_Ecommerce/static/css/main.4ff7174b.css",
-    "main.js": "/FantastK_Ecommerce/static/js/main.aa5092ec.js",
+    "main.css": "/FantastK_Ecommerce/static/css/main.967a0103.css",
+    "main.js": "/FantastK_Ecommerce/static/js/main.607d4fa3.js",
     "static/media/slide2.jpg": "/FantastK_Ecommerce/static/media/slide2.a2d8aa89e4f0b61e2255.jpg",
     "static/media/slide3.jpg": "/FantastK_Ecommerce/static/media/slide3.2ad8b3f8dde7beae1996.jpg",
     "static/media/slide1.jpg": "/FantastK_Ecommerce/static/media/slide1.6a8b8e3175a3c99fb141.jpg",
@@ -11,11 +11,11 @@
     "static/media/login.png": "/FantastK_Ecommerce/static/media/login.25fb209c5d443fe358b8.png",
     "static/media/register.png": "/FantastK_Ecommerce/static/media/register.03315ec2083198e2d55c.png",
     "index.html": "/FantastK_Ecommerce/index.html",
-    "main.4ff7174b.css.map": "/FantastK_Ecommerce/static/css/main.4ff7174b.css.map",
-    "main.aa5092ec.js.map": "/FantastK_Ecommerce/static/js/main.aa5092ec.js.map"
+    "main.967a0103.css.map": "/FantastK_Ecommerce/static/css/main.967a0103.css.map",
+    "main.607d4fa3.js.map": "/FantastK_Ecommerce/static/js/main.607d4fa3.js.map"
   },
   "entrypoints": [
-    "static/css/main.4ff7174b.css",
-    "static/js/main.aa5092ec.js"
+    "static/css/main.967a0103.css",
+    "static/js/main.607d4fa3.js"
   ]
 }
